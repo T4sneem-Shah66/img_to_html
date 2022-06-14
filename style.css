@@ -1,0 +1,165 @@
+.header{
+    height: 100px;
+    background-color: red;
+    min-height:  10px;
+    max-height: 20000px;
+    /* width: 100%; */
+}
+
+.container{
+    overflow: hidden;
+}
+.contact{
+    float: left;
+    width: 60%;
+    min-height: 200px;
+    background-color: green;
+}
+.blog{
+    float: right;
+    width: 35%;
+    min-height: 200px;
+    background-color: blue;
+}
+
+.footer{
+    /* clear: both; */
+    min-height: 100px;
+    background-color: black;
+}
+
+
+
+
+
+
+
+
+.header1{
+    height: 100px;
+    background-color: rgb(151, 55, 55);
+    min-height:  10px;
+    max-height: 20000px;
+    /* width: 100%; */
+}
+
+.container1{
+    overflow: hidden;
+}
+.contact1{
+    float: left;
+    width: 60%;
+    min-height: 200px;
+    background-color: rgb(30, 37, 30);
+}
+.blog1{
+    float: right;
+    width: 35%;
+    min-height: 200px;
+    background-color: rgb(163, 163, 224);
+}
+
+.footer1{
+    /* clear: both; */
+    min-height: 100px;
+    background-color: rgb(202, 190, 18);
+}
+
+
+
+
+.header2{
+    height: 100px;
+    background-color: red;
+    min-height:  10px;
+    max-height: 20000px;
+    /* width: 100%; */
+}
+
+.container2{
+    overflow: hidden;
+}
+.contact2{
+    float: left;
+    width: 60%;
+    min-height: 200px;
+    background-color: green;
+}
+.blog2{
+    float: right;
+    width: 35%;
+    min-height: 200px;
+    background-color: blue;
+}
+
+.footer2{
+    /* clear: both; */
+    min-height: 100px;
+    background-color: black;
+}
+
+
+
+
+
+.header3{
+    height: 100px;
+    background-color: aqua;
+    min-height:  10px;
+    max-height: 20000px;
+    /* width: 100%; */
+}
+
+.container3{
+    overflow: hidden;
+}
+.contact3{
+    float: left;
+    width: 60%;
+    min-height: 200px;
+    background-color: yellowgreen;
+}
+.blog3{
+    float: right;
+    width: 35%;
+    min-height: 200px;
+    background-color: plum;
+}
+
+.footer3{
+    /* clear: both; */
+    min-height: 100px;
+    background-color: rgb(0, 0, 0);
+}
+
+
+
+.header4{
+    height: 100px;
+    background-color: red;
+    min-height:  10px;
+    max-height: 20000px;
+    /* width: 100%; */
+}
+
+.container4{
+    overflow: hidden;
+}
+.contact4{
+    float: left;
+    width: 60%;
+    min-height: 200px;
+    background-color: rgb(204, 204, 111);
+}
+.blog4{
+    float: right;
+    width: 35%;
+    min-height: 200px;
+    background-color: brown;
+}
+
+.footer4{
+    /* clear: both; */
+    min-height: 100px;
+    background-color:grey;
+}
